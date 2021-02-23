@@ -9,5 +9,5 @@ describe('Array Reverse', () => {
     reverse(myArray);
     expect(myArray).toEqual(expected);
   });
-  
+
 });

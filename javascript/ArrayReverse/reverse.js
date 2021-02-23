@@ -12,4 +12,4 @@ const reverse = (list) => {
   }
 };
 
-module.exports = reverse
+module.exports = reverse;
