@@ -1,6 +1,6 @@
 'use strict';
 
-function BinarySearch(arr, key){
+function binarySearch(arr, key){
   let start = 0;
   let end = arr.length - 1;
 
@@ -19,3 +19,5 @@ function BinarySearch(arr, key){
   }
   return -1;
 }
+
+module.exports = binarySearch;
