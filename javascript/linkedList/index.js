@@ -4,8 +4,8 @@ const LinkedList = require('./lib/linked-list.js');
 
 let ll = new LinkedList();
 
-ll.append('first');
-ll.append('second');
+ll.insert('first');
+ll.insert('second');
 ll.includes('first');
 
 console.log(ll);
