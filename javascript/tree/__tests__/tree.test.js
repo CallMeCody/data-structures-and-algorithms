@@ -37,5 +37,17 @@ describe('testing methods on tree', () => {
   test('should successfully return a collection from a inOrder traversal', () => {
     expect(tree.inOrder()).toEqual([2, 4, 3, 1]);
   });
+  
+    test('should successfully determine with a boolean if a value is in a the Tree', () => {
+    expect(trees.contains(5)).toEqual(false);
+    expect(trees.contains(2)).toEqual(true);
+  });
 
+  test('should successfully find the maximum value in a Binary Tree', () => {
+    expect(tree.maxValue()).toEqual(4);
+  });
+
+  test('should successfully return unique input in a Binary Tree', () => {
+    expect(tree.breadth()).toEqual([4, 2, 3, 1]);
+  });
 });
