@@ -2,9 +2,6 @@
 
 # Challenge 15
 
-# Challenge Summary
-<!-- Short summary or background information -->
-
 ## Challenge Description
 <!-- Description of the challenge -->
 Create a BinaryTree class
@@ -24,9 +21,6 @@ Create a BinarySearchTree class
 
 # Challenge 16
 
-# Challenge Summary
-<!-- Short summary or background information -->
-
 ## Challenge Description
 <!-- Description of the challenge -->
 Write an instance method called find-maximum-value. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
@@ -39,9 +33,6 @@ Write an instance method called find-maximum-value. Without utilizing any of the
 ![Whiteboard](lab16.png)
 
 # Challenge 17
-
-# Challenge Summary
-<!-- Short summary or background information -->
 
 ## Challenge Description
 <!-- Description of the challenge -->
