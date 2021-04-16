@@ -83,6 +83,22 @@ class Tree {
     };
     return findMax(current);
   }
+
+  breadthFirst() {
+    if (!this.root) {
+     return null
+    }
+    let nodes = []
+    let queue = []
+    queue.push(this.root)
+    while (queue.length){
+     let currentNode = queue.shift();
+     nodes.push(currentNode.value)
+     if(currentNode.left) {queue.push(currentNode.left)}
+     if(currentNode.right) {queue.push(currentNode.right)}
+     }
+    return nodes
+  }
 }
 
 module.exports = {
