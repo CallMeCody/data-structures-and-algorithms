@@ -13,7 +13,7 @@
 
 ## Solution
 <!-- Embedded whiteboard image -->
-- ![Whiteboard]()
+- ![Whiteboard](lab015.png)
 
 # Challenge 16
 
@@ -28,7 +28,7 @@
 
 ## Solution
 <!-- Embedded whiteboard image -->
-- ![Whiteboard]()
+- ![Whiteboard](lab16.png)
 
 # Challenge 17
 
@@ -44,7 +44,7 @@ Write a breadth first traversal method which takes a Binary Tree as its unique i
 
 ## Solution
 <!-- Embedded whiteboard image -->
-- ![Whiteboard]()
+- ![Whiteboard](lab17.png)
 
 
 
