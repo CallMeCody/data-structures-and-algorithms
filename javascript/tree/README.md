@@ -1,6 +1,6 @@
 ### TREES
 
-## Challenge 15
+# Challenge 15
 
 # Challenge Summary
 <!-- Short summary or background information -->
@@ -14,7 +14,7 @@
 ## Solution
 <!-- Embedded whiteboard image -->
 
-## Challenge 16
+# Challenge 16
 
 # Challenge Summary
 <!-- Short summary or background information -->
@@ -28,7 +28,7 @@
 ## Solution
 <!-- Embedded whiteboard image -->
 
-## Challenge 17
+# Challenge 17
 
 # Challenge Summary
 <!-- Short summary or background information -->
