@@ -2,28 +2,48 @@
 
 ### Challenge 15
 
+# Challenge Summary
+<!-- Short summary or background information -->
 
-* To create a node class that has properties for the value stored in the node, the left child node, and the right child node.
+## Challenge Description
+<!-- Description of the challenge -->
 
-The function should take a string as its only argument, and should return a boolean representing whether or not the brackets match.
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 
-type of methods to use:
+## Solution
+<!-- Embedded whiteboard image -->
 
-- ``` preOrder ```
+### Challenge 16
 
-- ``` postOrder ```
+# Challenge Summary
+<!-- Short summary or background information -->
 
--  ``` inOrder ```
+## Challenge Description
+<!-- Description of the challenge -->
+
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+## Solution
+<!-- Embedded whiteboard image -->
+
+### Challenge 17
+
+# Challenge Summary
+<!-- Short summary or background information -->
+
+## Challenge Description
+<!-- Description of the challenge -->
+
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+## Solution
+<!-- Embedded whiteboard image -->
 
 
-Create a BinarySearchTree class
 
 
--  ``` contains ```
-
--  ``` add ```
-
-
-- UML
 
 - ![UML lab 15](lab015.png)
