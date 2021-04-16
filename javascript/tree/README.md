@@ -44,7 +44,7 @@ Write a breadth first traversal method which takes a Binary Tree as its unique i
 
 ## Solution
 <!-- Embedded whiteboard image -->
-- ![Whiteboard](lab17.png)
+- ![Whiteboard](lab17.jpg)
 
 
 
