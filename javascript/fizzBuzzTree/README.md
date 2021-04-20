@@ -1,4 +1,4 @@
-# Challenge 17
+# Challenge 18
 
 ## Challenge Description
 <!-- Description of the challenge -->
